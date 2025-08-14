@@ -32,7 +32,7 @@ export default ({ config }) => ({
   },
   extra: {
     eas: {
-    //   projectId: "5b149386-fb46-4d4d-8308-fde7bcff2f37",
+      projectId: "792adbb3-9075-4a55-aecf-7fb9580a51d5",
     },
     // FIREBASE_API_KEY: process.env.FIREBASE_API_KEY,
     // FIREBASE_AUTH_DOMAIN: process.env.FIREBASE_AUTH_DOMAIN,
@@ -45,4 +45,6 @@ export default ({ config }) => ({
     // GOOGLE_ANDROID_CLIENT_ID: process.env.GOOGLE_ANDROID_CLIENT_ID,
     // GOOGLE_IOS_CLIENT_ID: process.env.GOOGLE_IOS_CLIENT_ID
   },
+
+  owner: "dubway4201",
 });
